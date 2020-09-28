@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chill/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Chill/static/js/main.66c701ee.chunk.js",
+    "main.js.map": "/Chill/static/js/main.66c701ee.chunk.js.map",
+    "runtime-main.js": "/Chill/static/js/runtime-main.5163b2c9.js",
+    "runtime-main.js.map": "/Chill/static/js/runtime-main.5163b2c9.js.map",
+    "static/js/2.906898ab.chunk.js": "/Chill/static/js/2.906898ab.chunk.js",
+    "static/js/2.906898ab.chunk.js.map": "/Chill/static/js/2.906898ab.chunk.js.map",
+    "index.html": "/Chill/index.html",
+    "precache-manifest.040a11cd9d0634a41bafa406c9ca2731.js": "/Chill/precache-manifest.040a11cd9d0634a41bafa406c9ca2731.js",
+    "service-worker.js": "/Chill/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Chill/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.906898ab.chunk.js.LICENSE.txt": "/Chill/static/js/2.906898ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5163b2c9.js",
+    "static/js/2.906898ab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.66c701ee.chunk.js"
+  ]
+}
